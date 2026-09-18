@@ -1,0 +1,9 @@
+Tujuan: pengujian dilakukan untuk memastikan bot discord AI bisa digunakan dan berfungsi dengan baik
+
+Kategori: bot discord
+Fungsi:
+1. jika pengguna mengetik "!iklim <nama_kota>", bot harus merespons dengan informasi cuaca dan analisis potensi risiko 
+2. jika pengguna mengetik perintah `!tanya <pertanyaan>`, bot harus menjawab pertanyaan dengan jelas
+
+-Tampilan:
+tampilan balasan yang mudah di pahami
